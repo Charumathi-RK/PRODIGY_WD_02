@@ -18,3 +18,5 @@ Dynamic Start, Pause, and Reset Options: Users can seamlessly switch between sta
 👨‍💻 Insights Gained:
 
 Embarking on this project has been an incredible learning journey. The integration of HTML, CSS, and JavaScript not only sharpened my technical skills but also deepened my understanding of user-centric design principles. Managing time intervals, implementing dynamic controls, and optimizing performance have all contributed significantly to my evolving expertise! ⏲️🌐
+
+CHARUMATHI R
